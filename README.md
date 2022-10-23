@@ -15,12 +15,17 @@ Steps on Use:
 3] Click On the STUDENT table on the left and click RUN. We can see the changes after each Operation after Clicking run after Each Operation. 
 
 4] Enter the details and Click on "Add Student" to isert the student entry at database                              <== ADD / Insert / CREATE.
+    After Adding / Inserting the Details will be shown on a new Page, it will have a "HOME" Button to come back to home.
+
 
 5] To update the details, Fill up the details on the second form and click "Update Student" to Update the Details of the Student  <== UPDATE
+     After Updating the Details will be shown on a new Page, it will have a "HOME" Button to come back to home.
 
 6] To Find/Get the details of a Student Fill up the Id/Serial Number of the Student in the 4th table and click "Fetch Student"  <== GET
+    After Fetching the details of the Student will be Shown on a new Page with a HOME Button to go back.
 
 7] To delete fill the Id of the Student in the 5th table, and click "Delete Student" to delete the Sudent from the Database. <== DELETE
+    After Deleting the details of the Student will be Shown on a new Page with a HOME Button to go back.
 
 
 
