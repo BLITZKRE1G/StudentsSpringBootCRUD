@@ -8,7 +8,7 @@ Id is the Primary Key
 
 
 Steps on Use:
-1] Open the project on IntelliJ or Eclipse or STS. Run it, Tomcat will start at port 8080. Use [ http://localhost:8080 ] to go the Entry Page. 
+1] Open the project on IntelliJ or Eclipse or STS. Run it, Tomcat will start at port 8080. Use [ "http://localhost:8080" ] to go the Entry Page. 
 
 2] Use [ http://localhost:8080/h2-console ] to access the database which is H2 an in memory database. Then Test the connection and "Connect" to the database.
 
