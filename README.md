@@ -1,2 +1,2 @@
 # StudentsSpringBootCRUD
-A Java Spring Boot App to add Students and add CRUD Operations on them
+A Java Spring Boot App With proper styling to add Students and add CRUD Operations on them
