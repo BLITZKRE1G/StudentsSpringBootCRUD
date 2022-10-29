@@ -4,7 +4,7 @@ A Java Spring Boot App With proper styling to add Students and add CRUD Operatio
 Technologies Used: Java, Spring Boot, H2 Database, Css3, Bootstrap, JSP
 
 Every Student has 5 Columns: a) Id / Serial_Number, b)First_Name, c) Last_Name, d)Department, e)Teacher.
-Id is the Primary Key
+                            **********Id is the Primary Key**********
 
 
 Steps on Use:
